@@ -1,0 +1,3 @@
+include ':repositories_task1'
+include ':app'
+rootProject.name = "retrofit"
